@@ -1,7 +1,7 @@
 {
     "name": "Yukki Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://telegra.ph/file/2ce59959822b85aa5f468.png",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "10670890",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "b8c18624a9a4b397e9989c30904de9d2",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,42 +30,42 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5691474077:AAHo0YNb8wNq5ZZ9Ls8zoLBuphu8fqmeWL8",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://beula39:beula39@cluster0.jksfzkj.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "MVU😍MUSIC🎧💯BOT",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1970096110",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BACi0yoAD0GzbOKrkEDUSW_bRWIeCm7wktbj_kICKNwqEM-Hngas8jLXOv_P1-wR7_lllqAFE6jJAuXYE_zsfo8zh68_eTBdGzBO_POxU48ZTeYthe3KeFz5l7h9-8mRLsoTpYOB1Ovb5dA9ddz0c_slXtoVrRGAfkPb80Kynvb28llp4LoePexzOQD9VlROEGwolq3D7s2b8rzpMH8IZxGj33-LXVX3P9ekvqHgC6WE48JN0z6uRP5vDVbsrkFicPa0A6Bt2Tu0y0aJ9VXhY3AmbhPIB7MzfDUMUhFp-zhol-eAdvdgkzAz6KeSaBmD-aBIBUu44wQZLTpQUvP602MqUjJ2EwAAAAB1bUfuAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "2bee9b3e-b5a2-4160-8bc4-87087870a651",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "https://dashboard.heroku.com/apps/rafieps/deploy/github",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001768257900",
         "required": true
       },
       "UPSTREAM_REPO": {
